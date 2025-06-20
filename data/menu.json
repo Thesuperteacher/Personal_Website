@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Home",
+    "url": "index.html"
+  },
+  {
+    "name": "achievement",
+    "url": "achievement.html"
+  },
+  {
+    "name": "about",
+    "url":"about.html"
+  },
+  {
+    "name": "services",
+    "url": "services.html"
+  },
+  {
+    "name": "Web Design",
+    "url": "webdesign.html"
+  },
+  {
+    "name": "blog",
+    "url": "blog.html"
+  },
+  {
+    "name": "Contact",
+    "url": "contact.html"
+  }
+]
